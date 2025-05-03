@@ -1,7 +1,7 @@
 ## Overview
 Details about following folders:
 - `preprocess` folder contains files to preprocess data, taking from CUT3R repository
-- `voxel` folder contains files to generate voxel maps. They will generate visibility and obstacle voxel map
+- `voxel` folder contains files to generate voxel maps. They will generate visibility and obstacle voxel maps
 - `visualization` folder contains files to generate histogram plot, pointcloud 3D visualization
 
 Details about following files:
