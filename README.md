@@ -6,5 +6,5 @@ Details about following folders:
 
 Details about following files:
 - `process_point_cloud` file generate point cloud based on the depth and rgb provided from the dataset
-- `ground_segment_all_frames` help detect points that are recognized as the ground and segment them using a different color. This will segment the pointcloud of all frame and merge them together in a single visualization.
+- `ground_segment_all_frames` help detect points that are recognized as the ground and segment them using a different color. This will segment the pointcloud of all frames and merge them together in a single visualization.
 - `ground_ptn` file help help detect points that are recognized as the ground in a single frame.
